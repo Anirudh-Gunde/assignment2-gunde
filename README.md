@@ -12,5 +12,9 @@ I like this sport because of my dad. He is fond of this game,he will comment on 
   2. Virat Kohli
   3. Hardik Pandya
   
+  - Australia Cricket Team
+  - Indian Hockey Team
+  - Brazil Football Team
+  
 
   
