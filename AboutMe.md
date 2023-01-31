@@ -6,7 +6,7 @@ Please click here to look at my photo
 [Profile Photo](Snapchat-1791359720.jpg)
 
 ***
-### Dream Countries to Visit Table
+### Table of Dream Countries to Visit 
 
 | Country | ReasonToVisit              | Days to spend|
 |  ---    |     ---                    |   ---        |
