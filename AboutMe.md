@@ -38,4 +38,4 @@ Please click here to look at my photo
 <input type="button" value="some&#x00A;text" />
 
 ~~~
->[Button with line breaks](https://css-tricks.com/snippets/html/button-with-line-breaks/)
+>[Click here to check the Button with line breaks](https://css-tricks.com/snippets/html/button-with-line-breaks/)
