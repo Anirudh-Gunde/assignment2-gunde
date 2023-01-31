@@ -14,3 +14,9 @@ Please click here to look at my photo
 | Switzerland | Best Scenic Places | 7 |
 | France | Home to Paris | 3 |
 | Japan | Place for new technology | 5 |
+
+***
+###  Pithy Quotes
+> "You're never rich enough if you can be richer." - *Jules Verne*
+>
+> "A little sincerity is a dangerous thing, and a great deal of it is absolutely fatal." - *Honore De Balzac*
