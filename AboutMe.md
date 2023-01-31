@@ -5,3 +5,12 @@ I'm from India. I have completed my bachelors in computer science in 2019.<br> L
 Please click here to look at my photo
 [Profile Photo](Snapchat-1791359720.jpg)
 
+***
+### Dream Countries to Visit Table
+
+| Country | ReasonToVisit              | Days to spend|
+|  ---    |     ---                    |   ---        |
+| Iceland | Happiest country in the World | 5 |
+| Switzerland | Best Scenic Places | 7 |
+| France | Home to Paris | 3 |
+| Japan | Place for new technology | 5 |
