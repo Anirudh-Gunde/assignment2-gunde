@@ -20,3 +20,22 @@ Please click here to look at my photo
 > "You're never rich enough if you can be richer." - *Jules Verne*
 >
 > "A little sincerity is a dangerous thing, and a great deal of it is absolutely fatal." - *Honore De Balzac*
+
+***
+###  Code Fencing
+
+> [How to newline in HTML Button? - Stack Overflow](https://stackoverflow.com/questions/38048131/how-to-newline-in-html-button)
+
+~~~
+<button>
+  some
+  <br />
+  text
+</button>
+
+<input type="button" value="some&#13;&#10;text" />
+
+<input type="button" value="some&#x00A;text" />
+
+~~~
+>[Button with line breaks](https://css-tricks.com/snippets/html/button-with-line-breaks/)
